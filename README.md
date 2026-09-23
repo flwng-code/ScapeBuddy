@@ -10,7 +10,8 @@ Live app (if deployed): https://...
 
 ## What it is
 
-One or two sentences on what your app does.
+my app is for personal use for a utility app that helps me or other users figure out mechanics for bosses in the game, and for creating builds with the build maker,
+it also allows you to use the milestone note taker for any text entries you may need.
 
 ## How to run it
 
