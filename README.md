@@ -27,4 +27,4 @@ flutter run -d chrome
 ## AI usage
 
 Link to the `AI-USAGE.md` in my project repository:
-https://github.com/YOUR-USERNAME/YOUR-REPO/blob/main/AI-USAGE.md
+https://github.com/flwng-code/ScapeBuddy/blob/main/AI-USAGE.md
