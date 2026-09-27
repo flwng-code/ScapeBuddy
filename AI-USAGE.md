@@ -60,4 +60,5 @@ authorship of generated code you have not reviewed.
 
 - **File:** `lib/main.dart`.
 - **Commit:** Add your real commit link. (to be added)
-- **What it does and why we kept it:** 
+- **What it does and why we kept it:** The main file holds everything and is where the user is greeted and can see the screens that can be used to lead them to the functions of the app which can be seen by the texts and arrow icons which can be pressed.
+
