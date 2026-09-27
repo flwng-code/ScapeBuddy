@@ -1,17 +1,22 @@
+# Final Project
+
+Copy this into your workspace `project/README.md` and fill it in.
+
 ## My project repository
 
-Public repository: (https://github.com/flwng-code/ScapeBuddy)
+Public repository: https://github.com/flwng-code/ScapeBuddy
 
 Live app (if deployed): https://...
 
 ## What it is
 
-a utility app that helps me or other users figure out mechanics for bosses in the game, and for creating builds with the build maker,
-it also allows you to use the milestone note taker for any text entries you may need.
+One or two sentences on what your app does.
 
 ## How to run it
 
-The steps someone would follow to run your app from nothing.
+the user will run it by typing the following
+
+flutter run -d chrome
 
 ## Presentation
 
