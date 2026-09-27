@@ -1,4 +1,4 @@
-# AI usage record (student draft)
+# AI usage record
 
 ChatGPT assisted with planning and scaffolding ScapeBuddy.
 
