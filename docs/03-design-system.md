@@ -44,16 +44,22 @@ Planned reusable components include:
 | Component | Responsibility | Planned screens |
 | --- | --- | --- |
 | `AppButton` | Shared action button with optional callback | Builds, Notes |
-| `MonsterCard` | Compact boss summary that can open details | Bestiary |
-| `MonsterInfo` | Boss facts and strategy content | Bestiary detail |
+| `BossGuideTile` | 32 x 32 icon, boss name, and short description; opens the guide | Bestiary, implemented |
+| `BossDetailScreen` | Boss image area, description, attacks, mechanics, and kill steps | Bestiary, implemented |
 | `GearSlot` | One empty or selected equipment slot | Builds |
 | `GearPicker` | Lets a player choose gear for a slot | Builds |
 | `NoteField` | Note editor connected to its screen state | Milestone Notes |
 | `LoadingIndicator` | Shared loading feedback | Future data screens |
 
-Most of these widgets are not implemented yet. The home screen in
-`lib/features/home/presentation/home_screen.dart` has large image-led cards with
-a title and description. The full card is tappable and has no leading icon.
+The home screen in `lib/features/home/presentation/home_screen.dart` has large
+image-led cards with a title and description. The full card is tappable and has
+no leading icon.
+
+The Bestiary reads its boss guide content from
+[`docs/assets/boss-document-and-information.pdf`](assets/boss-document-and-information.pdf).
+List icon placeholders are 32 x 32 PNGs in
+`assets/images/bestiary/icons/`. Each detail page has a large image area below
+the boss name; add boss artwork to `assets/images/bestiary/heroes/` to fill it.
 
 ## Changes and decisions
 

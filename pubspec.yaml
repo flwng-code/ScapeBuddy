@@ -25,5 +25,7 @@ flutter:
   uses-material-design: true
   assets:
     - assets/images/
+    - assets/images/bestiary/icons/
+    - assets/images/bestiary/heroes/
   # Put images, fonts and sounds in assets/ and list them here, for example:
   # Add more asset folders below when the project needs them.
