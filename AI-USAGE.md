@@ -137,8 +137,9 @@ authorship of generated code you have not reviewed.
 - **What it does and why it is built this way:** This code is used to organize and store all the information needed for a boss detail page in the app. The BossGuide class holds the main information about a boss, such as its name, description, icon, hero image, and different guide sections. The BossGuideSection class is used to separate the guide into organized parts, where the information can be shown as normal paragraphs, bullet points, or numbered steps depending on what is needed. The BossGuideListStyle enum makes it easy to tell the app how each section should be displayed. It is built this way so the boss information stays organized and consistent, while also making it easier to add or change bosses without having to create a completely different layout for each one.
 
 - **File:** `boss_detail_screen.dart`
-- **Commit:** [Add your real commit link. (to be added)](https://github.com/flwng-code/ScapeBuddy/commit/3845c8cd0b4e5103684f7684b3a08f9dc9d43863)
+- **Commit:** (https://github.com/flwng-code/ScapeBuddy/commit/3845c8cd0b4e5103684f7684b3a08f9dc9d43863)
 - **What it does and why it is built this way:**
+- This Flutter code creates a boss detail page. BossDetailScreen takes a BossGuide and displays the boss’s name, image, description, and other guide sections in a scrollable layout. _BossImageSlot handles the boss image and shows a placeholder if the image cannot be loaded. _GuideSection displays each section and its items, while _GuideItem controls whether each item appears as plain text, a numbered list, or a bulleted list. Overall, the main screen puts everything together, while the smaller widgets handle specific parts of the UI. It’s built that way mainly to keep the code organized and easier to maintain.
 
 ### The AI-assisted part I understand best
 
