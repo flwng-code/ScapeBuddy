@@ -10,7 +10,7 @@ Live app (if deployed): https://...
 
 ## What it is
 
-One or two sentences on what your app does.
+ScapeBuddy is your all in one scaping helper! equipped with tools meant to make life easier and not harder.
 
 ## How to run it
 
@@ -20,9 +20,9 @@ flutter run -d chrome
 
 ## Presentation
 
-- Video (public Google Drive link): https://...
+- Video (public Google Drive link): https://drive.google.com/drive/folders/1LDIOvDWGHjwtbqTOrxDwxUjudKETJlKt?usp=sharing
 - Slides (link or PDF): https://...
-- Square image: in this folder, or a link.
+- Square image: in this folder, or a link.  
 
 ## AI usage
 

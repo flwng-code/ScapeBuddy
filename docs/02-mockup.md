@@ -7,29 +7,31 @@ files, so this PDF is the available visual reference.
 ## Mockup
 
 The PDF contains the screen flow and captures for the planned app. The first
-implementation should compare against those screen images directly. The
-current home screen is only an early static draft; its three destination cards
-do not navigate yet.
+implementation should compare against those screen images directly. The home
+screen now uses large image-led cards that open their matching destination
+screens. The supplied images are stored in `assets/images/` as `bestiary.jpg`,
+`build_maker.jpg`, and `milestone_notes.jpg`.
 
 ## Wireframes and flow
 
-The flow shown in the mockup starts with sign-in, continues to Home, and opens
-the Bestiary, a boss detail page, Builds, or Milestone Notes. Bottom navigation
-appears on the main feature screens. The supplied PDF should be checked before
-adding any interaction that is not represented there.
+The submitted mockup shows sign-in before Home, then routes to the Bestiary, a
+boss detail page, Builds, or Milestone Notes. The current project decision
+removes sign-in, so the app opens directly on Home. Bottom navigation appears
+on the main feature screens in the reference and remains a later layout task.
 
 ## Screens
 
-### Login
+### Login (removed from current scope)
 
 Email and password fields, a forgot-password action, and a prominent sign-in
-button. This is planned, not implemented.
+button are shown in the submitted PDF. This screen is kept as a historical
+reference but will not be built for the current app.
 
 ### Home
 
-A black title bar and large destinations for Bestiary, Build Maker, and
-Milestone Notes. The current draft has simple text cards without icons, as
-requested by the student; the placeholder descriptions are still temporary.
+A black title bar and large image-led destinations for Bestiary, Build Maker,
+and Milestone Notes. Each full card is tappable and opens its matching screen.
+The cards have no leading icons. The destination screens are still drafts.
 
 ### Bestiary
 

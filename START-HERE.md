@@ -9,6 +9,13 @@ Read this once, do the six steps, then delete this file.
 
 ---
 
+## ScapeBuddy scope note
+
+This course template includes generic examples for Firebase, Supabase, and
+sign-in. They are not requirements for ScapeBuddy. The current project direction
+has no accounts, authentication, Firebase, Firestore, or cloud sync; future
+build and note data is intended to stay in local app or browser storage.
+
 ## What you are looking at
 
 It is already a working Flutter app. Run it and you get the ScapeBuddy home

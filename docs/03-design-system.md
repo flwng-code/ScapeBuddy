@@ -43,7 +43,7 @@ Planned reusable components include:
 
 | Component | Responsibility | Planned screens |
 | --- | --- | --- |
-| `AppButton` | Shared action button with optional callback | Login, Builds, Notes |
+| `AppButton` | Shared action button with optional callback | Builds, Notes |
 | `MonsterCard` | Compact boss summary that can open details | Bestiary |
 | `MonsterInfo` | Boss facts and strategy content | Bestiary detail |
 | `GearSlot` | One empty or selected equipment slot | Builds |
@@ -51,14 +51,14 @@ Planned reusable components include:
 | `NoteField` | Note editor connected to its screen state | Milestone Notes |
 | `LoadingIndicator` | Shared loading feedback | Future data screens |
 
-These widgets are not implemented yet. The current home screen has a private
-`_HomeFeatureCard` inside `lib/main.dart`; it has only a title and description
-and intentionally has no leading icon.
+Most of these widgets are not implemented yet. The home screen in
+`lib/features/home/presentation/home_screen.dart` has large image-led cards with
+a title and description. The full card is tappable and has no leading icon.
 
 ## Changes and decisions
 
 - The current home-card design follows the student's request to remove icons
-  from Bestiary, Build Maker, and Milestone Notes.
+  from Bestiary, Build Maker, and Milestone Notes while using image backgrounds.
 - The proposal specifies 12 gear slots, while the mockup shows 11; do not settle
   that discrepancy until the visual and data needs are reviewed.
 - The supplied mockup is the reference for visual details when written notes
