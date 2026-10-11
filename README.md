@@ -1,7 +1,5 @@
 # Final Project
 
-Copy this into your workspace `project/README.md` and fill it in.
-
 ## My project repository
 
 Public repository: https://github.com/flwng-code/ScapeBuddy
@@ -35,8 +33,8 @@ for Chrome and the deployed web app.
 ## Presentation
 
 - Video (public Google Drive link): https://drive.google.com/drive/folders/1LDIOvDWGHjwtbqTOrxDwxUjudKETJlKt?usp=sharing
-- Slides (link or PDF): https://...
-- Square image: in this folder, or a link.  
+- Slides (link or PDF): https://drive.google.com/file/d/18XCHkITj3YHEr00WHm6b1ugyP1bmMU5w/view?usp=sharing
+- Square image: in this folder, or a link: https://drive.google.com/file/d/1gLc-Sl5jfNvoHRt9l-CxCYWUIV4ejPjP/view?usp=sharing
 
 ## AI usage
 
