@@ -94,7 +94,7 @@ inventing work or links.
 - **What was wrong with it:** The student wanted no icons on Bestiary, Build
   Maker, or Milestone Notes.
 - **What I did instead:** i removed the icons from the code and changed the placeholder text. and now current cards contain only their title and description.
-- **Commit:** Add the student's own commit link after committing this change. (to be added)
+- **Commit:** https://github.com/flwng-code/ScapeBuddy/commit/33b1ba85d8395973da2a03aa0170de85f4993638
 
 ### ENTRY #2 2026-09-26 The template demo counter replaced the ScapeBuddy screen
 
@@ -104,7 +104,7 @@ inventing work or links.
   current ScapeBuddy home screen.
 - **What I did instead:** Put the ScapeBuddy screen back in the template's
   `lib/main.dart` while retaining DevicePreview.
-- **Commit:** Add the student's own commit link after committing this change.
+- **Commit:** https://github.com/flwng-code/ScapeBuddy/commit/33b1ba85d8395973da2a03aa0170de85f4993638
 
 ### ENTRY #3 2026-09-26 The template demo counter replaced the ScapeBuddy screen
 
@@ -114,7 +114,7 @@ inventing work or links.
   current ScapeBuddy home screen.
 - **What I did instead:** Put the ScapeBuddy screen back in the template's
   `lib/main.dart` while retaining DevicePreview.
-- **Commit:** Add the student's own commit link after committing this change.
+- **Commit:** (https://github.com/flwng-code/ScapeBuddy/commit/33b1ba85d8395973da2a03aa0170de85f4993638)
 
 ## 3. Who wrote what
 
