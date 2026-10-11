@@ -1,6 +1,6 @@
 # AI usage record
 
-ChatGPT assisted with planning and scaffolding ScapeBuddy.
+ChatGPT assisted with planning and scaffolding, and also assisting in creating the functionalities of ScapeBuddy.
 
 ## 1. How I used AI
 
